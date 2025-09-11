@@ -15,16 +15,7 @@ Join the grind. Commit the climb. 💻⚔️
 ---
 
 ## 📂 Repository Structure
-DSA-Repo/
-│
-├── Arrays/
-│ ├── reverse_array.py # Reverse an Array
-│ ├── min_max_array.py # Find Min & Max in Array
-│ ├── rotate_array.py # Rotate Array (Left & Right)
-│ ├── move_zeros_end.py # Move All Zeros to End
-│ └── move_zeros_front.py # Move All Zeros to Front
-│
-└── README.md
+
 
 ---
 
