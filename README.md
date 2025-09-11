@@ -35,7 +35,7 @@ Join the grind. Commit the climb. 💻⚔️
   - **Move All Zeros to Front (GFG)** → [Problem Link](https://www.geeksforgeeks.org/move-zeroes-front-array/)  
 
 ### Day 2
-- **Linear Search (GFG)** → [Problem Link](https://www.geeksforgeeks.org/linear-search/) | [Solution](Searching_and_Sortings.py)  
+- **Linear Search (GFG)** → [Problem Link](https://www.geeksforgeeks.org/linear-search/)  
 
 ---
 
