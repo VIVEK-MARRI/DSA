@@ -15,16 +15,10 @@ Join the grind. Commit the climb. 💻⚔️
 ---
 
 ## 📂 Repository Structure
-DSA-Repo/
-│
-├── Arrays/
-│ ├── reverse_array.py # Reverse an Array
-│ ├── min_max_array.py # Find Min & Max in Array
-│ ├── rotate_array.py # Rotate Array (Left & Right)
-│ ├── move_zeros_end.py # Move All Zeros to End
-│ └── move_zeros_front.py # Move All Zeros to Front
-│
-└── README.md
+
+
+---
+
 
 ---
 
@@ -40,6 +34,9 @@ DSA-Repo/
   - **Move All Zeros to End (LeetCode)** → [Problem Link](https://leetcode.com/problems/move-zeroes/)  
   - **Move All Zeros to Front (GFG)** → [Problem Link](https://www.geeksforgeeks.org/move-zeroes-front-array/)  
 
+### Day 2
+- **Linear Search (GFG)** → [Problem Link](https://www.geeksforgeeks.org/linear-search/) | [Solution](Searching_and_Sortings.py)  
+
 ---
 
 ## 📖 Problems Solved
@@ -48,8 +45,10 @@ DSA-Repo/
 - [x] Arrays → [Rotate Array (Left & Right)](Arrays/rotate_array.py)  
 - [x] Arrays → [Move All Zeros to End](Arrays/move_zeros_end.py)  
 - [x] Arrays → [Move All Zeros to Front](Arrays/move_zeros_front.py)  
-
+- [x] Searching → [Linear Search](Searching_and_Sortings/linear_search.py)  
 
 ---
+
+
 
 
