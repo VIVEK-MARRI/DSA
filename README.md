@@ -19,6 +19,9 @@ Join the grind. Commit the climb. 💻⚔️
 
 ---
 
+
+---
+
 ## ✅ Progress Log
 
 ### Day 1 (Start 🚀)
@@ -31,6 +34,11 @@ Join the grind. Commit the climb. 💻⚔️
   - **Move All Zeros to End (LeetCode)** → [Problem Link](https://leetcode.com/problems/move-zeroes/)  
   - **Move All Zeros to Front (GFG)** → [Problem Link](https://www.geeksforgeeks.org/move-zeroes-front-array/)  
 
+### Day 2
+- **Linear Search (GFG)** → [Problem Link](https://www.geeksforgeeks.org/linear-search/) | [Solution](linear_search.py) 
+- **Binary Search (GFG)** → [Problem Link](https://www.geeksforgeeks.org/binary-search/) | [Solution](binary_search.py)  
+
+
 ---
 
 ## 📖 Problems Solved
@@ -39,8 +47,11 @@ Join the grind. Commit the climb. 💻⚔️
 - [x] Arrays → [Rotate Array (Left & Right)](Arrays/rotate_array.py)  
 - [x] Arrays → [Move All Zeros to End](Arrays/move_zeros_end.py)  
 - [x] Arrays → [Move All Zeros to Front](Arrays/move_zeros_front.py)  
-
+- [x] Searching → [Linear Search](Searching_and_Sortings/linear_search.py)
+- [x] Searching → [Binary Search](Searching_and_Sortings/binary_search.py)   
 
 ---
+
+
 
 
